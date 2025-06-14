@@ -1,4 +1,4 @@
-# Local Development Environment (AI generated)
+# Local Development Environment
 
 This repository contains Docker Compose configurations for setting up a local development environment with various services including Kafka, PostgreSQL, and ClickHouse.
 
@@ -47,3 +47,4 @@ Access ClickHouse:
 - Services are isolated in their own networks
 - Default configurations are suitable for local development
 - For production use, please review and adjust security settings
+- **This file is generated using AI**
