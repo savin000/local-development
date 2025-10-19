@@ -7,9 +7,9 @@ This repository contains Docker Compose configurations for setting up a local de
 1. Clone this repository
 2. Navigate to the specific service directory you want to start
 3. Run the following command:
-   ```bash
-   docker-compose up -d
-   ```
+```bash
+docker-compose up -d
+```
 
 ## Service-Specific Instructions
 
@@ -46,7 +46,7 @@ Access ClickHouse:
 cd docker/opensearch
 docker-compose up -d
 ```
-Access OpenSearch at https://localhost:9200
+Access OpenSearch at https://localhost:9200  
 Access OpenSearch Dashboard at http://localhost:5601
 
 ## Notes
