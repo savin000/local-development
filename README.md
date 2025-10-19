@@ -47,7 +47,7 @@ cd docker/opensearch
 docker-compose up -d
 ```
 Access OpenSearch at https://localhost:9200
-Access OpenSearch Dashboard at http: http://localhost:5601
+Access OpenSearch Dashboard at http://localhost:5601
 
 ## Notes
 
