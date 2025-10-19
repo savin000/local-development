@@ -41,6 +41,14 @@ Access ClickHouse:
 - Native protocol: localhost:9000
 - HTTP interface: http://localhost:8123
 
+### OpenSearch
+```bash
+cd docker/opensearch
+docker-compose up -d
+```
+Access OpenSearch at https://localhost:9200
+Access OpenSearch Dashboard at http: http://localhost:5601
+
 ## Notes
 
 - All services are configured with `restart: unless-stopped` policy
